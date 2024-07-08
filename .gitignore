@@ -1,0 +1,3 @@
+.devenv/
+.*_cache/
+.pre-commit-config.yaml
